@@ -1,0 +1,263 @@
+Determining if the include file arpa/inet.h exists failed with the following output:
+Change Dir: C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_da59a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.0+0538acc04 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30133 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.c
+  cl /c /I"C:\Users\Admin\Desktop\Tools\vcpkg\scripts\buildsystems\msbuild\..\..\..\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_da59a.dir\Debug\\" /Fd"cmTC_da59a.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal error C1083: Cannot open include file: 'arpa/inet.h': No such file or directory [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_da59a.vcxproj]
+
+
+
+Determining if the include file netdb.h exists failed with the following output:
+Change Dir: C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_a5390.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.0+0538acc04 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30133 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.c
+  cl /c /I"C:\Users\Admin\Desktop\Tools\vcpkg\scripts\buildsystems\msbuild\..\..\..\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a5390.dir\Debug\\" /Fd"cmTC_a5390.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal error C1083: Cannot open include file: 'netdb.h': No such file or directory [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_a5390.vcxproj]
+
+
+
+Determining if the include file netinet/in.h exists failed with the following output:
+Change Dir: C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_5e791.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.0+0538acc04 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30133 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.c
+  cl /c /I"C:\Users\Admin\Desktop\Tools\vcpkg\scripts\buildsystems\msbuild\..\..\..\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5e791.dir\Debug\\" /Fd"cmTC_5e791.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal error C1083: Cannot open include file: 'netinet/in.h': No such file or directory [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_5e791.vcxproj]
+
+
+
+Determining if the include file pwd.h exists failed with the following output:
+Change Dir: C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_a182e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.0+0538acc04 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30133 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.c
+  cl /c /I"C:\Users\Admin\Desktop\Tools\vcpkg\scripts\buildsystems\msbuild\..\..\..\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a182e.dir\Debug\\" /Fd"cmTC_a182e.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal error C1083: Cannot open include file: 'pwd.h': No such file or directory [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_a182e.vcxproj]
+
+
+
+Determining if the include file sys/socket.h exists failed with the following output:
+Change Dir: C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_75453.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.0+0538acc04 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30133 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.c
+  cl /c /I"C:\Users\Admin\Desktop\Tools\vcpkg\scripts\buildsystems\msbuild\..\..\..\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_75453.dir\Debug\\" /Fd"cmTC_75453.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal error C1083: Cannot open include file: 'sys/socket.h': No such file or directory [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_75453.vcxproj]
+
+
+
+Determining if the include file sys/time.h exists failed with the following output:
+Change Dir: C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_3bd29.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.0+0538acc04 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30133 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.c
+  cl /c /I"C:\Users\Admin\Desktop\Tools\vcpkg\scripts\buildsystems\msbuild\..\..\..\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3bd29.dir\Debug\\" /Fd"cmTC_3bd29.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal error C1083: Cannot open include file: 'sys/time.h': No such file or directory [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_3bd29.vcxproj]
+
+
+
+Determining if the include file syslog.h exists failed with the following output:
+Change Dir: C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_ac92f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.0+0538acc04 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30133 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.c
+  cl /c /I"C:\Users\Admin\Desktop\Tools\vcpkg\scripts\buildsystems\msbuild\..\..\..\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ac92f.dir\Debug\\" /Fd"cmTC_ac92f.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal error C1083: Cannot open include file: 'syslog.h': No such file or directory [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_ac92f.vcxproj]
+
+
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_288d1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.0+0538acc04 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30133 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.c
+  cl /c /I"C:\Users\Admin\Desktop\Tools\vcpkg\scripts\buildsystems\msbuild\..\..\..\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_288d1.dir\Debug\\" /Fd"cmTC_288d1.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal error C1083: Cannot open include file: 'unistd.h': No such file or directory [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_288d1.vcxproj]
+
+
+
+Determining size of ssize_t failed with the following output:
+Change Dir: C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_de2f1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.0+0538acc04 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30133 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  SIZEOF_SSIZE_T.c
+  cl /c /I"C:\Users\Admin\Desktop\Tools\vcpkg\scripts\buildsystems\msbuild\..\..\..\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_de2f1.dir\Debug\\" /Fd"cmTC_de2f1.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c(29,12): error C2065: 'ssize_t': undeclared identifier [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_de2f1.vcxproj]
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c(30,12): error C2065: 'ssize_t': undeclared identifier [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_de2f1.vcxproj]
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c(31,12): error C2065: 'ssize_t': undeclared identifier [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_de2f1.vcxproj]
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c(32,12): error C2065: 'ssize_t': undeclared identifier [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_de2f1.vcxproj]
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c(33,12): error C2065: 'ssize_t': undeclared identifier [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_de2f1.vcxproj]
+
+
+C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/CheckTypeSize/SIZEOF_SSIZE_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(ssize_t))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Performing C SOURCE FILE Test HAVE_STRUCT_TM_TM_GMTOFF failed with the following output:
+Change Dir: C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_22fe2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.0+0538acc04 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30133 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  src.c
+  cl /c /I"C:\Users\Admin\Desktop\Tools\vcpkg\scripts\buildsystems\msbuild\..\..\..\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_STRUCT_TM_TM_GMTOFF /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_22fe2.dir\Debug\\" /Fd"cmTC_22fe2.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\src.c
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\src.c(6,34): error C2039: 'tm_gmtoff': is not a member of 'tm' [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_22fe2.vcxproj]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wtime.h(26): message : see declaration of 'tm' [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_22fe2.vcxproj]
+
+
+Source file was:
+
+#include <time.h>
+
+int main()
+{
+  (void)sizeof(((struct tm *)0)->tm_gmtoff);
+  return 0;
+}
+
+Determining if the function accept4 exists failed with the following output:
+Change Dir: C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_b00ed.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.0+0538acc04 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30133 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Users\Admin\Desktop\Tools\vcpkg\scripts\buildsystems\msbuild\..\..\..\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=accept4 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b00ed.dir\Debug\\" /Fd"cmTC_b00ed.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol accept4 referenced in function main [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_b00ed.vcxproj]
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\Debug\cmTC_b00ed.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_b00ed.vcxproj]
+
+
+
+Determining if the function mkostemp exists failed with the following output:
+Change Dir: C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_459fc.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.0+0538acc04 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30133 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Users\Admin\Desktop\Tools\vcpkg\scripts\buildsystems\msbuild\..\..\..\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=mkostemp /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_459fc.dir\Debug\\" /Fd"cmTC_459fc.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol mkostemp referenced in function main [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_459fc.vcxproj]
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\Debug\cmTC_459fc.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_459fc.vcxproj]
+
+
+
+Determining if the initgroups exist failed with the following output:
+Change Dir: C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_49793.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.0+0538acc04 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30133 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckSymbolExists.c
+  cl /c /I"C:\Users\Admin\Desktop\Tools\vcpkg\scripts\buildsystems\msbuild\..\..\..\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_49793.dir\Debug\\" /Fd"cmTC_49793.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2,10): fatal error C1083: Cannot open include file: 'grp.h': No such file or directory [C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\CMakeFiles\CMakeTmp\cmTC_49793.vcxproj]
+
+
+File C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <grp.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef initgroups
+  return ((int*)(&initgroups))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}

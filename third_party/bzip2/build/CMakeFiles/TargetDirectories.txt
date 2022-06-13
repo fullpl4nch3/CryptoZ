@@ -1,0 +1,13 @@
+C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/bzip2.dir
+C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/bz2_ObjLib.dir
+C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/bz2.dir
+C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/bzip2recover.dir
+C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/check.dir
+C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/INSTALL.dir
+C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/tests/CMakeFiles/INSTALL.dir
+C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/tests/CMakeFiles/RUN_TESTS.dir
+C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/man/CMakeFiles/INSTALL.dir
+C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/man/CMakeFiles/RUN_TESTS.dir

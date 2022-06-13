@@ -1,0 +1,14 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/CMakeLists.txt
+  bzip2recover.c
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzip2recover.c(275,1): warning C4267: 'initializing': conversion from 'size_t' to 'Int32', possible loss of data
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzip2recover.c(300,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzip2recover.c(514,36): warning C4244: '=': conversion from '__int64' to 'Int32', possible loss of data
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzip2recover.c(345,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzip2recover.c(383,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzip2recover.c(385,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzip2recover.c(459,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzip2recover.c(506,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzip2recover.c(515,10): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzip2recover.c(517,10): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzip2recover.c(519,40): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bzip2recover.vcxproj -> C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\MinSizeRel\bzip2recover.exe

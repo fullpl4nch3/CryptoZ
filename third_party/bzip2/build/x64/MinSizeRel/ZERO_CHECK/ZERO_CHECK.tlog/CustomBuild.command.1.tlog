@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\DESKTOP\DEV\CRYPTOZ\DEPS\BZIP2\BUILD\CMAKEFILES\E228AC5379C94F63DEDBBD40E7845B42\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2 -BC:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/bzip2.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

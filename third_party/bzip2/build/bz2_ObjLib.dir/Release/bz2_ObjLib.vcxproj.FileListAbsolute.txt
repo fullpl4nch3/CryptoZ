@@ -1,0 +1,1 @@
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\bz2_ObjLib.dir\Release\bz2_ObjLib.lib

@@ -1,0 +1,21 @@
+﻿  Building Custom Rule C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/CMakeLists.txt
+  blocksort.c
+  huffman.c
+  crctable.c
+  randtable.c
+  compress.c
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\compress.c(205,33): warning C4244: '=': conversion from '__int64' to 'Int32', possible loss of data
+  decompress.c
+  bzlib.c
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzlib.c(998,40): warning C4267: '=': conversion from 'size_t' to 'Int32', possible loss of data
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzlib.c(1057,43): warning C4267: '=': conversion from 'size_t' to 'Int32', possible loss of data
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzlib.c(1192,50): warning C4267: '=': conversion from 'size_t' to 'Int32', possible loss of data
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzlib.c(1419,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzlib.c(1424,7): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzlib.c(1430,9): warning C4996: 'setmode': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _setmode. See online help for details.
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzlib.c(1432,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\bzlib.c(1438,12): warning C4996: 'fdopen': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fdopen. See online help for details.
+  Generating Code...
+     Creating library C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/MinSizeRel/bz2.lib and object C:/Users/Admin/Desktop/dev/CryptoZ/deps/bzip2/build/MinSizeRel/bz2.exp
+bz2.exp : warning LNK4070: /OUT:bz2-1.dll directive in .EXP differs from output filename 'C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\MinSizeRel\bz2.dll'; ignoring directive
+  bz2.vcxproj -> C:\Users\Admin\Desktop\dev\CryptoZ\deps\bzip2\build\MinSizeRel\bz2.dll

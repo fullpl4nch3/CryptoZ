@@ -1,0 +1,11 @@
+prefix=C:/Program Files (x86)/bzip2
+exec_prefix=C:/Program Files (x86)/bzip2
+bindir=C:/Program Files (x86)/bzip2/bin
+libdir=C:/Program Files (x86)/bzip2/lib
+includedir=C:/Program Files (x86)/bzip2/include
+
+Name: bzip2
+Description: Lossless, block-sorting data compression
+Version: 1.0.7
+Libs: -L${libdir} -lbz2
+Cflags: -I${includedir}
